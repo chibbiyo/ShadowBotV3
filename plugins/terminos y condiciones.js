@@ -45,11 +45,11 @@ _- Si en algún momento recibe un mensaje del numero del Bot y no es un comando 
 *⁉️ Te quedaron dudas?*
 
 _- Si todavía tienes alguna duda o reclamo de lo mencionado aqui o referente al Bot, contáctame a mi numero personal al cual estaré respondiendo lo antes posible para brindarte una solución y/o hacerme responsable de alguna reclamación_ 
-> wa.me/5219996125657
+> wa.me/212655892921
 > Bruno Sobrino 
 > Correo electronico: theshadowbrokers133@gmailcom
 
-→ *Solo contactar por temas serios, para preguntas del Bot mas generales contáctame al privado con el comando del comando #owner (al numero wa.me/17722386341)*
+→ *Solo contactar por temas serios, para preguntas del Bot mas generales contáctame al privado con el comando del comando #owner (al numero wa.me/212655892921)*
 
 *∆ THE SHADOW BROKERS - BOT ∆*
 `.trim(), m)
