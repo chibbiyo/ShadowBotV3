@@ -1,6 +1,6 @@
 global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/ISC2BTH31ZM63dppsfdDq1'] // No tiene utilidad 
-global.channelYT = ['https://www.youtube.com/channel/UCSTDMKjbm-EmEovkygX-lCA'] // No tiene utilidad
+global.channelYT = ['https://youtube.com/channel/UCrCnLKYk-hVzn74DstKjbeQ'] // No tiene utilidad
 global.owner = ['212655892921'] //Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
 global.mods = ['212667876859' , '212621548561'] //No tiene utilidad
 global.prems = ['212655892921' , '212667876859'] //Podra usar algunos comandos del apartado de propietario
