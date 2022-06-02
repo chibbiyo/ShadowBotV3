@@ -19,10 +19,10 @@ let menu =`
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *✨𝗛ola, ${username}!!*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-║➤ *Creador del Bot: Bruno Sobrino* 
-║➤ *Numero del creador:* *wa.me/5219992095479 (No Bot)*
-║➤ *PayPal:* *https://www.paypal.me/TheShadowBrokers133*
-║➤ *Numero del Bot oficial:* *wa.me/5219991402134*
+║➤ *Creador del Bot: Tdm Sam ϟ* 
+║➤ *Numero del creador:* *wa.me/212655892921 (No Bot)*
+║➤ *Instagram:* *https://www.instagram.com/chiibbiyo/*
+║➤ *Numero del Bot oficial:* *wa.me/212621548561*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ╰══╡✯✯✯✯✯✯✯✯╞══╯
 ┏━━━━━━━━━━━━━┓
@@ -348,7 +348,7 @@ let menu =`
 ┣ ඬ⃟👑 _${usedPrefix}disable *autoread*_
 ┗━━━━━━━━━━━━━┛`.trim()
 let mentionedJid = [who]
-conn.send3ButtonImg(m.chat, pp, menu, '©The Shadow Brokers - Bot', '𝙼𝙴𝙽𝚄 𝚂𝙸𝙼𝙿𝙻𝙴', `#menusimple`, '𝙼𝙴𝙽𝚄 𝙰𝚄𝙳𝙸𝙾𝚂', `#menuaudios`, '𝙶𝚁𝚄𝙿𝙾𝚂 𝙾𝙵𝙸𝙲𝙸𝙰𝙻𝙴𝚂', `#grupos`, m, false, { contextInfo: { mentionedJid }})   
+conn.send3ButtonImg(m.chat, pp, menu, '©The Shadow Brokers - Bot', '𝑴𝑬𝑵𝑼 𝑺𝑰𝑴𝑷𝑳𝑬', `#menusimple`, '𝑴𝑬𝑵𝑼 𝑨𝑼𝑫𝑰𝑶𝑺', `#menuaudios`, '𝑮𝑹𝑼𝑷𝑶𝑺 𝑶𝑭𝑰𝑪𝑰𝑨𝑳𝑬𝑺', `#grupos`, m, false, { contextInfo: { mentionedJid }})   
 //await await await await await await conn.sendFile(m.chat, vn, 'mariana.mp3', null, m, true, {
 //type: 'audioMessage', 
 //ptt: true 
