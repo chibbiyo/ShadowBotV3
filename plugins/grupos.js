@@ -6,7 +6,7 @@ let info = `
 *Hola 👋🏻, unete a los grupos oficiales para pasar un rato agradable usando el Bot o platicando con la familia de The Shadow Borkers - Bot*
 
 *➤ Grupos oficiales del Bot:*
-*1.-* hhh
+*1.-* https://chat.whatsapp.com/ISC2BTH31ZM63dppsfdDq1
 
 *2.-* pronto...
 
