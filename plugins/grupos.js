@@ -6,25 +6,25 @@ let info = `
 *Hola 👋🏻, unete a los grupos oficiales para pasar un rato agradable usando el Bot o platicando con la familia de The Shadow Borkers - Bot*
 
 *➤ Grupos oficiales del Bot:*
-*1.-* https://chat.whatsapp.com/JlomZPEgo3bLmzjGUYPfyJ
+*1.-* https://chat.whatsapp.com/GBLJJNdsabGA7lms6NZY3R
 
-*2.-* https://chat.whatsapp.com/DbXBmsydWBE1ZN3EoY0hRs
+*2.-* pronto... 
 
-*3.-* https://chat.whatsapp.com/BW0P22xx7EGBTdH5IM851F
+*3.-* pronto...
 
-*4.-* https://chat.whatsapp.com/CjexkGVr37J6GuSdDVAHzC
+*4.-* pronto...
 
-*5.-* https://chat.whatsapp.com/H7NUXdrGlFg20ae3bqgwlb
+*5.-* pronto...
 
-*6.-* https://chat.whatsapp.com/GvrLSUSzVuT9P17CKfdxDa
+*6.-* pronto...
 
-*7.-* https://chat.whatsapp.com/EpzuymKm6lG08k6J2Dwx7F
+*7.-* pronto...
 
-*8.-* https://chat.whatsapp.com/IW12dLVoyWGHreGpX7rQIw
+*8.-* pronto...
 
-*9.-* https://chat.whatsapp.com/Ef89aIuOLeD3Fa2sYmKwp7
+*9.-* pronto...
 
-*10.-* https://chat.whatsapp.com/C2WYb1hiiijCI13QSUZLM9
+*10.-* pronto...
 `.trim() 
 
 conn.sendMessage(m.chat, info, MessageType.text, { quoted: { key: { remoteJid: 'status@broadcast', participant: '0@s.whatsapp.net', fromMe: false }, message: { "imageMessage": { "mimetype": "image/jpeg", "caption": '🔥 THE SHADOW BROKERS - BOT 🔥', "jpegThumbnail": fs.readFileSync(`./Menu2.jpg`)}}}})}
